@@ -44,11 +44,16 @@ Para executar localmente no Windows, use `.\gradlew.bat lint` e `.\gradlew.bat t
 ## Documentação e capturas
 
 - [Protocolo.md](Protocolo.md): formato dos dados, regras, defeitos observados e ameaças à validade.
-- [Lista de dispositivos](screenshots/lista-dispositivos.png)
-- [Detalhes do dispositivo](screenshots/detalhes-dispositivo.png)
+
+### Lista de dispositivos
+
+![Captura da lista de dispositivos](screenshots/lista-dispositivos.png)
+
+### Detalhes do dispositivo
+
+![Captura dos detalhes do dispositivo](screenshots/detalhes-dispositivo.png)
 
 ## Uso de inteligência artificial
 
 O ChatGPT Codex foi utilizado como ferramenta de IA para apoiar o desenvolvimento do app e o entendimento do código em Kotlin.
-
 
